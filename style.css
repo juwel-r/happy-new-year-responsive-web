@@ -98,6 +98,7 @@ header h1{
  /*-------Welcome Container style---------*/
  
  .welcome-container{
+    padding: 0 20px;
     background: linear-gradient(90.00deg, 
     rgba(7, 2, 17, 0.901),rgba(7, 2, 17, 0) 100%),  
     url("./images/Vectorrr.png") no-repeat center/cover ;
